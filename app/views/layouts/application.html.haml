@@ -1,0 +1,28 @@
+!!!
+
+/[if IE 8 ] <html class="ie ie8" lang="en">
+/[if (gte IE 9)|!(IE)] <html lang="en" class="no-js">
+%html{:lang => "en"}
+  %head
+    = display_meta_tags :site => 'Hatke | Home'
+    %meta{:content => "width=device-width, initial-scale=1", :name => "viewport"}/
+    = stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track' => true
+    = stylesheet_link_tag 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css', media: 'all', 'data-turbolinks-track' => true
+    = javascript_include_tag 'http://maps.google.com/maps/api/js?sensor=false'
+    /[if IE 8] <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  /[if lt IE 9] <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  /[if lt IE 9]  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
+  = csrf_meta_tags
+  / /head
+  %body#homepage
+    = render partial: 'layouts/flash'
+    #wrapper
+      .page-overlay
+      = render partial: 'layouts/header'
+      #content.no-bottom.no-top
+        = yield
+        = render partial: 'layouts/footer'
+    .footer-wrapper
+      -#= render 'layouts/margo_footer'
+    = javascript_include_tag 'application', 'data-turbolinks-track' => true
