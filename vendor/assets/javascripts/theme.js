@@ -1,2 +1,19 @@
-//= require_tree ./js
+//= require js/jpreLoader
+//= require js/bootstrap.min
+//= require js/jquery.isotope.min
+//= require js/jquery.prettyPhoto
+//= require js/easing
+//= require js/jquery.ui.totop
+//= require js/jquery.flexslider-min
+//= require js/jquery.scrollto
+//= require js/owl.carousel
+//= require js/jquery.countTo
+//= require js/classie
+//= require js/video.resize
+//= require js/validation
+//= require js/jquery.stellar.min
+//= require js/designesia
+//= require js/jquery.themepunch.plugins.min
+//= require js/jquery.themepunch.revolution.min
+
 //= require_self

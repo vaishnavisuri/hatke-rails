@@ -5,8 +5,8 @@
         / logo begin
         %h1#logo
           %a{:href => "index.html"}
-            %img.logo-1{:alt => "", :src => "images/logo.png"}/
-            %img.logo-2{:alt => "", :src => "images/logo-2.png"}/
+            = image_tag 'logo.png', class: 'logo-1'
+            = image_tag 'logo-2.png', class: 'logo-2'
         / logo close
         / small button begin
         %span#menu-btn
