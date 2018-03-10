@@ -12,8 +12,8 @@
 //= require js/video.resize
 //= require js/validation
 //= require js/jquery.stellar.min
-//= require js/designesia
 //= require js/jquery.themepunch.plugins.min
 //= require js/jquery.themepunch.revolution.min
+//= require js/designesia
 
 //= require_self
