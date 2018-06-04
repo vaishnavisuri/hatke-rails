@@ -2,14 +2,67 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13367cb8-ca95-4277-a14d-d404503c1a07" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.rakeTasks" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/init.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/javascripts/theme.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/stylesheets/theme.sass" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/fonts/ElegantIcons.eot" afterPath="$PROJECT_DIR$/app/assets/fonts/ElegantIcons.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/fonts/ElegantIcons.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/ElegantIcons.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/fonts/ElegantIcons.ttf" afterPath="$PROJECT_DIR$/app/assets/fonts/ElegantIcons.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/fonts/ElegantIcons.woff" afterPath="$PROJECT_DIR$/app/assets/fonts/ElegantIcons.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/fonts/ElegantIconsd41d.eot" afterPath="$PROJECT_DIR$/app/assets/fonts/ElegantIconsd41d.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/fonts/et-line.eot" afterPath="$PROJECT_DIR$/app/assets/fonts/et-line.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/fonts/et-line.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/et-line.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/fonts/et-line.ttf" afterPath="$PROJECT_DIR$/app/assets/fonts/et-line.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/fonts/et-line.woff" afterPath="$PROJECT_DIR$/app/assets/fonts/et-line.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/fonts/et-lined41d.eot" afterPath="$PROJECT_DIR$/app/assets/fonts/et-lined41d.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/fonts/fontawesome-webfont862f.eot" afterPath="$PROJECT_DIR$/app/assets/fonts/fontawesome-webfont862f.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/fonts/fontawesome-webfont862f.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/fontawesome-webfont862f.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/fonts/fontawesome-webfont862f.ttf" afterPath="$PROJECT_DIR$/app/assets/fonts/fontawesome-webfont862f.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/fonts/fontawesome-webfont862f.woff" afterPath="$PROJECT_DIR$/app/assets/fonts/fontawesome-webfont862f.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/fonts/fontawesome-webfontd41d.eot" afterPath="$PROJECT_DIR$/app/assets/fonts/fontawesome-webfontd41d.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/javascripts/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/theme/bootstrap.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/javascripts/js/classie.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/theme/classie.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/javascripts/js/designesia.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/theme/designesia.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/javascripts/js/easing.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/theme/easing.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/javascripts/js/jpreLoader.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/theme/jpreLoader.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/javascripts/js/jquery.countTo.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/theme/jquery.countTo.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/javascripts/js/jquery.flexslider-min.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/theme/jquery.flexslider-min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/javascripts/js/jquery.isotope.min.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/theme/jquery.isotope.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/javascripts/js/jquery.prettyPhoto.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/theme/jquery.prettyPhoto.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/javascripts/js/jquery.scrollto.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/theme/jquery.scrollto.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/javascripts/js/jquery.stellar.min.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/theme/jquery.stellar.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/javascripts/js/jquery.themepunch.plugins.min.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/theme/jquery.themepunch.plugins.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/javascripts/js/jquery.themepunch.revolution.min.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/theme/jquery.themepunch.revolution.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/javascripts/js/jquery.ui.totop.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/theme/jquery.ui.totop.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/javascripts/js/map.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/theme/map.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/javascripts/js/owl.carousel.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/theme/owl.carousel.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/javascripts/js/validation.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/theme/validation.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/javascripts/js/video.resize.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/theme/video.resize.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/stylesheets/css/animate.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/theme/animate.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/stylesheets/css/animations.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/theme/animations.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/stylesheets/css/bootstrap.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/theme/bootstrap.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/stylesheets/css/color.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/theme/color.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/stylesheets/css/custom-style.css.sass" afterPath="$PROJECT_DIR$/app/assets/stylesheets/theme/custom-style.css.sass" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/stylesheets/css/elegant-style.css.sass" afterPath="$PROJECT_DIR$/app/assets/stylesheets/theme/elegant-style.css.sass" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/stylesheets/css/et-line-style.css.sass" afterPath="$PROJECT_DIR$/app/assets/stylesheets/theme/et-line-style.css.sass" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/stylesheets/css/flexslider.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/theme/flexslider.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/stylesheets/css/font-awesome.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/theme/font-awesome.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/stylesheets/css/jpreloader.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/theme/jpreloader.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/stylesheets/css/mb.YTPlayer.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/theme/mb.YTPlayer.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/stylesheets/css/owl.carousel.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/theme/owl.carousel.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/stylesheets/css/owl.theme.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/theme/owl.theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/stylesheets/css/owl.transitions.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/theme/owl.transitions.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/stylesheets/css/plugin.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/theme/plugin.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/stylesheets/css/prettyPhoto.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/theme/prettyPhoto.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/stylesheets/css/rev-settings.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/theme/rev-settings.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/stylesheets/css/rs-plugin-settings.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/theme/rs-plugin-settings.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/stylesheets/css/style.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/theme/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/_header.html.haml" afterPath="$PROJECT_DIR$/app/views/layouts/_header.html.haml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/application.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.haml" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.haml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/application.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/assets/javascripts/js/designesia.js" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/js/designesia.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/assets/javascripts/theme.js" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/theme.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/initializers/assets.rb" afterPath="$PROJECT_DIR$/config/initializers/assets.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/welcome_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/welcome_controller.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="hatke.iws" />
@@ -36,36 +89,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="designesia.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/vendor/assets/javascripts/js/designesia.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="4896" max-vertical-offset="14512">
-              <caret line="272" column="45" selection-start-line="272" selection-start-column="45" selection-end-line="272" selection-end-column="45" />
-              <folding>
-                <marker date="1519573596723" expanded="true" signature="8679:8704" placeholder="..." />
-                <marker date="1519573596723" expanded="true" signature="9034:9046" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/test.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="20214" max-vertical-offset="20574">
-              <caret line="1133" column="55" selection-start-line="1133" selection-start-column="55" selection-end-line="1133" selection-end-column="55" />
-              <folding>
-                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="application.html.haml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="396" max-vertical-offset="522">
-              <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="558">
+              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -74,30 +102,91 @@
       <file leaf-file-name="_header.html.haml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="1080">
+            <state vertical-scroll-proportion="-7.3333335" vertical-offset="0" max-vertical-offset="1925">
               <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="theme.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/assets/javascripts/theme.js">
+      <file leaf-file-name="welcome_controller.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/welcome_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="342" max-vertical-offset="378">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1034">
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/theme/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="6066" max-vertical-offset="57888">
+              <caret line="337" column="2" selection-start-line="337" selection-start-column="2" selection-end-line="337" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="designesia.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/theme/designesia.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="13950" max-vertical-offset="14004">
+              <caret line="775" column="0" selection-start-line="775" selection-start-column="0" selection-end-line="775" selection-end-column="0" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <marker date="1523758788290" expanded="true" signature="8976:9001" placeholder="..." />
+                <marker date="1523758788290" expanded="true" signature="9331:9343" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="application.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="324">
-              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.22881356" vertical-offset="0" max-vertical-offset="1502">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="28" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="welcome.coffee" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/welcome.coffee">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.0" vertical-offset="0" max-vertical-offset="953">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1466">
+              <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html.haml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/welcome/index.html.haml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="9270" max-vertical-offset="11592">
+              <caret line="515" column="9" selection-start-line="515" selection-start-column="9" selection-end-line="515" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="init.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/init.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1260" max-vertical-offset="20268">
+              <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -111,27 +200,27 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/vendor/assets/stylesheets/css/elegant-style.css" />
-        <option value="$PROJECT_DIR$/vendor/assets/stylesheets/css/et-line-style.css.erb" />
-        <option value="$PROJECT_DIR$/vendor/assets/stylesheets/css/elegant-style.css.erb" />
-        <option value="$PROJECT_DIR$/config/routes.rb" />
-        <option value="$PROJECT_DIR$/vendor/assets/stylesheets/theme.css.sass" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
-        <option value="$PROJECT_DIR$/app/views/layouts/_footer.html.haml" />
-        <option value="$PROJECT_DIR$/public/test.html" />
-        <option value="$PROJECT_DIR$/vendor/assets/stylesheets/theme.sass" />
-        <option value="$PROJECT_DIR$/app/views/welcome/index.html.haml" />
         <option value="$PROJECT_DIR$/vendor/assets/stylesheets/css/custom-style.css" />
         <option value="$PROJECT_DIR$/vendor/assets/stylesheets/css/et-line-style.css.sass" />
         <option value="$PROJECT_DIR$/vendor/assets/stylesheets/css/elegant-style.css.sass" />
         <option value="$PROJECT_DIR$/vendor/assets/stylesheets/css/custom-style.css.sass" />
         <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/vendor/assets/javascripts/theme.js" />
-        <option value="$PROJECT_DIR$/app/views/layouts/_header.html.haml" />
-        <option value="$PROJECT_DIR$/app/views/layouts/application.html.haml" />
-        <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
         <option value="$PROJECT_DIR$/vendor/assets/javascripts/js/designesia.js" />
         <option value="$PROJECT_DIR$/public/test.rb" />
+        <option value="$PROJECT_DIR$/vendor/assets/javascripts/theme.js" />
+        <option value="$PROJECT_DIR$/vendor/assets/stylesheets/theme.sass" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/theme/style.css" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
+        <option value="$PROJECT_DIR$/config/initializers/assets.rb" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/theme/etline_style.css" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/theme/et-line-style.css.sass" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/theme/elegant-style.css.sass" />
+        <option value="$PROJECT_DIR$/public/init.html" />
+        <option value="$PROJECT_DIR$/app/views/layouts/application.html.haml" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/theme/designesia.js" />
+        <option value="$PROJECT_DIR$/app/views/layouts/_header.html.haml" />
+        <option value="$PROJECT_DIR$/app/controllers/welcome_controller.rb" />
       </list>
     </option>
   </component>
@@ -139,8 +228,9 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="1985" />
     <option name="y" value="24" />
-    <option name="width" value="1920" />
+    <option name="width" value="1855" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -166,7 +256,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="RailsProjectView" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -195,30 +284,176 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hatke" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hatke" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="welcome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hatke" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hatke" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hatke" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hatke" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hatke" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hatke" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stylesheets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hatke" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hatke" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stylesheets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hatke" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hatke" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hatke" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hatke" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="RailsProjectView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../codecpm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="recentsLimit" value="5" />
     <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/app/assets/stylesheets/theme" />
+      <recent name="$PROJECT_DIR$/app/assets/javascripts/theme" />
       <recent name="$PROJECT_DIR$/app/assets/images" />
       <recent name="$PROJECT_DIR$/vendor/assets/stylesheets/css" />
-      <recent name="$PROJECT_DIR$/vendor/assets/javascripts/js" />
-      <recent name="$PROJECT_DIR$/public" />
-      <recent name="$PROJECT_DIR$/vendor/assets" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/assets" />
+      <recent name="$PROJECT_DIR$/app/assets/stylesheets" />
+      <recent name="$PROJECT_DIR$/app/assets/javascripts" />
       <recent name="$PROJECT_DIR$/vendor/assets/stylesheets/css" />
       <recent name="$PROJECT_DIR$/vendor/assets/fonts" />
     </key>
@@ -367,11 +602,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="24" width="1920" height="1056" extended-state="6" />
-    <editor active="false" />
+    <frame x="1985" y="24" width="1855" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13177083" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21725067" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -387,7 +622,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.626" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -413,100 +648,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vendor/assets/javascripts/theme.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="342" max-vertical-offset="378">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="324">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/assets/javascripts/js/designesia.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="13608">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1519573596723" expanded="true" signature="8679:8704" placeholder="..." />
-            <marker date="1519573596723" expanded="true" signature="9034:9046" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="20214" max-vertical-offset="20574">
-          <caret line="1133" column="55" selection-start-line="1133" selection-start-column="55" selection-end-line="1133" selection-end-column="55" />
-          <folding>
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="396" max-vertical-offset="522">
-          <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="1080">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/assets/javascripts/theme.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="342" max-vertical-offset="378">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="324">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/assets/javascripts/js/designesia.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="9936" max-vertical-offset="13572">
-          <caret line="552" column="27" selection-start-line="552" selection-start-column="27" selection-end-line="552" selection-end-column="27" />
-          <folding>
-            <marker date="1519573596723" expanded="true" signature="8679:8704" placeholder="..." />
-            <marker date="1519573596723" expanded="true" signature="9034:9046" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/assets/javascripts/theme.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
@@ -539,54 +680,134 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="20214" max-vertical-offset="20574">
           <caret line="1133" column="55" selection-start-line="1133" selection-start-column="55" selection-end-line="1133" selection-end-column="55" />
-          <folding>
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/welcome.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1241">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="980">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/cable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1187">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/initializers/assets.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1232">
+          <caret line="9" column="71" selection-start-line="9" selection-start-column="71" selection-end-line="9" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/theme/custom-style.css.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1880">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/assets/javascripts/theme.js">
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/theme/et-line-style.css.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1295">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0" vertical-offset="684" max-vertical-offset="6120">
+          <caret line="38" column="19" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/theme/elegant-style.css.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="20772">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/init.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1260" max-vertical-offset="20268">
+          <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="396" max-vertical-offset="522">
-          <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="558">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/welcome/index.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="9270" max-vertical-offset="11592">
+          <caret line="515" column="9" selection-start-line="515" selection-start-column="9" selection-end-line="515" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/theme/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5965" max-vertical-offset="58139">
+          <caret line="337" column="2" selection-start-line="337" selection-start-column="2" selection-end-line="337" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/theme/designesia.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="13294" max-vertical-offset="14881">
+          <caret line="775" column="0" selection-start-line="775" selection-start-column="0" selection-end-line="775" selection-end-column="0" />
+          <folding>
+            <marker date="1523758788290" expanded="true" signature="8976:9001" placeholder="..." />
+            <marker date="1523758788290" expanded="true" signature="9331:9343" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="1080">
+        <state vertical-scroll-proportion="-7.3333335" vertical-offset="0" max-vertical-offset="1925">
           <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/assets/javascripts/js/designesia.js">
+    <entry file="file://$PROJECT_DIR$/app/controllers/welcome_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="4464" max-vertical-offset="14512">
-          <caret line="272" column="45" selection-start-line="272" selection-start-column="45" selection-end-line="272" selection-end-column="45" />
-          <folding>
-            <marker date="1519573596723" expanded="true" signature="8679:8704" placeholder="..." />
-            <marker date="1519573596723" expanded="true" signature="9034:9046" placeholder="..." />
-          </folding>
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1034">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/welcome.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.0" vertical-offset="0" max-vertical-offset="953">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1466">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22881356" vertical-offset="0" max-vertical-offset="1502">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="28" selection-end-column="50" />
+          <folding />
         </state>
       </provider>
     </entry>

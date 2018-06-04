@@ -5,9 +5,9 @@
         / logo begin
         %h1#logo
           %a{:href => "index.html"}
-            = image_tag 'logo.png', class: 'logo-1'
-            = image_tag 'logo-2.png', class: 'logo-2'
-        %span#menu-btn
+            %img.logo-1{:alt => "", :src => "images/logo.png"}/
+            %img.logo-2{:alt => "", :src => "images/logo-2.png"}/
+        %a#menu-btn{href: 'javascript:void(0)', onclick: 'function(){alert("0");}'}
         %nav
           %ul#mainmenu
             %li
@@ -55,4 +55,3 @@
               %a{:href => "#section-blog"} Blog
             %li
               %a{:href => "#section-contact"} Contact
-        / mainmenu close
