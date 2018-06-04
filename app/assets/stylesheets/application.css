@@ -25,6 +25,5 @@
  *= require theme/rs-plugin-settings
  *= require theme/rev-settings
  *= require theme/elegant-style
- *= require theme/et-line-style
  *= require_self
  */
