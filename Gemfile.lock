@@ -111,6 +111,10 @@ GEM
     nio4r (2.2.0)
     nokogiri (1.8.1)
       mini_portile2 (~> 2.3.0)
+<<<<<<< HEAD
+=======
+    pg (0.21.0)
+>>>>>>> 011efdb0b71cba0856b33cb1074a1631aeae0505
     public_suffix (3.0.1)
     puma (3.11.2)
     rack (2.0.3)
@@ -218,6 +222,10 @@ DEPENDENCIES
   jquery-rails
   listen (>= 3.0.5, < 3.2)
   meta-tags
+<<<<<<< HEAD
+=======
+  pg (~> 0.20)
+>>>>>>> 011efdb0b71cba0856b33cb1074a1631aeae0505
   puma (~> 3.7)
   rails (~> 5.1.4)
   rails_12factor
