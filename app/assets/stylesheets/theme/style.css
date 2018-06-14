@@ -1232,8 +1232,8 @@ footer {
 	color:#eceff3;
 	font-size: 40px;
 	padding: 40px;
-	width: 120x;
-	height: 120x;
+	width: 120px;
+	height: 120px;
 	text-align: center;
 	border:none;
 	border-radius:10px;
@@ -3183,20 +3183,20 @@ margin-bottom: -3px;
 	design for 320px
 	/* -------------------------------------------------- */
 	@media only screen and (max-width: 480px) {
-<<<<<<< HEAD:vendor/assets/stylesheets/css/style.css
-	.pf_full_width .item{
-	float:left;
-	width:100% !important;
-	}
+    .pf_full_width .item {
+      float: left;
+      width: 100% !important;
+    }
 
-	.text-item{
-	font-size:32px;
-	line-height:32px;
-	}
+    .text-item {
+      font-size: 32px;
+      line-height: 32px;
+    }
 
-	.text-item i{
-	font-size:24px;
-	}
+    .text-item i {
+      font-size: 24px;
+    }
+  }
 
 	/* --------------------------------------------------
 	design for 320px
@@ -3213,43 +3213,3 @@ margin-bottom: -3px;
 	}
 	.team img.team-pic{max-width:300px;}
 	}
-=======
-    .pf_full_width .item {
-      float: left;
-      width: 100% !important;
-    }
-
-    .text-item {
-      font-size: 32px;
-      line-height: 32px;
-    }
-
-    .text-item i {
-      font-size: 24px;
-    }
-  }
-    /* --------------------------------------------------
-    design for 320px
-    /* -------------------------------------------------- */
-    @media (min-width: 300px) and (max-width: 979px) {
-
-      #mainmenu li a {
-        display: block;
-        width: 100%;
-      }
-
-      section {
-        background-position: top !important;
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        -o-background-size: cover;
-        background-size: cover;
-        background-attachment: scroll;
-      }
-
-      .team img.team-pic {
-        max-width: 300px;
-      }
-    }
-
->>>>>>> 011efdb0b71cba0856b33cb1074a1631aeae0505:app/assets/stylesheets/theme/style.css
